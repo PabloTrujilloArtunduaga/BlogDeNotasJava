@@ -18,7 +18,7 @@ BlogDeNotasJava es una aplicación de escritorio tipo bloc de notas que demuestr
 
 ## Herramientas
 - Java usando neatbeans.
-- Java Swing para interfaz grafca.
+- Java Swing para interfaz grafica.
 
 ## Estrutura del pruecto
 
